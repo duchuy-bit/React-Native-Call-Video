@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "643555039001",
+    "project_id": "rn-video-call-7b3be",
+    "storage_bucket": "rn-video-call-7b3be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643555039001:android:a5164465993efa972a9788",
+        "android_client_info": {
+          "package_name": "com.videosdkcallkeepexample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHKvmsTpVqzFNXRcVLo8rnAue0Q8-szeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
